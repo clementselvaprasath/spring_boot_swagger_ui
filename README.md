@@ -12,3 +12,5 @@ URL :
 http://localhost:18080/swagger-ui.html
 
 http://www.javainuse.com/spring/boot_swagger
+
+http://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
