@@ -10,3 +10,5 @@ $ java -jar target/springboot-swagger-test-0.0.1-SNAPSHOT.jar
 
 URL :
 http://localhost:18080/swagger-ui.html
+
+http://www.javainuse.com/spring/boot_swagger
